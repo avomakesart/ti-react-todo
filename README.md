@@ -2,7 +2,7 @@
  **  We need to create a simple to-do app, that lets us create new items and delete those items.
  **
 
-<!--  1.- Fork and clone this repository, doing a: `git clone https://github.com/avomakesart/ti-react-todo.git`
+ 1.- Fork and clone this repository, doing a: `git clone https://github.com/avomakesart/ti-react-todo.git`
  
  2.- Create an array of default values for the to-do list.
  
