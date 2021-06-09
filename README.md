@@ -21,4 +21,4 @@
  9.- Extra point: improve the app's performance
  
  
- **  Note: you are free to use any design system or CSS framework/library.**
+ ** Note: you are free to use any design system or CSS framework/library.**
